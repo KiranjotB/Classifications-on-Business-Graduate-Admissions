@@ -1,2 +1,2 @@
 # Classifications-on-Business-Graduate-Admissions
-A Small Language Model (SLM) for fall detection in Python using CLIP embeddings, leveraging computer vision in multi-model representation learning. 
+Performed different analysis methods on classification models to predict business graduate admissions based on GPA and GMAT scores.
